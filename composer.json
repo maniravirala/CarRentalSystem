@@ -1,0 +1,15 @@
+{
+    "name": "sreeram/car-rent",
+    "autoload": {
+        "psr-4": {
+            "Sreeram\\CarRent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sreeram-1",
+            "email": "devabasavaraju@gmail.com"
+        }
+    ],
+    "require": {}
+}

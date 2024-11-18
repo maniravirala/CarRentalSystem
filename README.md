@@ -66,12 +66,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ### License
 This project is licensed under the MIT License.
 
-### Contact
-For any inquiries or support, please contact:
-***Name:*** Raju
-***Email:*** mailraju1406@gmail.com
-
-
-# CarRentalSystem
-# CarRentalSystem
-# CarRentalSystem
