@@ -26,7 +26,7 @@ Welcome to CarRent – a web application for car rental agencies and customers, 
 1. XAMPP or any similar PHP development environment.
 2. Clone the Repository in htdocs folder of XAMPP:
 ```
-git clone https://github.com/spm999/Car-Rental-System.git
+git clone https://github.com/maniravirala/CarRentalSystem.git
 ```
 3. Set Up the Database:
    1. Import the car_booking.sql file into your MySQL database.
@@ -72,5 +72,6 @@ For any inquiries or support, please contact:
 ***Email:*** mailraju1406@gmail.com
 
 
+# CarRentalSystem
 # CarRentalSystem
 # CarRentalSystem
